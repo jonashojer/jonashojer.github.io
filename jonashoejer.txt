@@ -1,7 +1,7 @@
 <span id="a">jonas@højer</span>:<span id="b">~</span><span id="c">$</span> cd jonas_højer.d/<!-- laglaglaglaglaglag -->about_me
 <span id="a">jonas@højer</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->jonas_højer.txt<br/><br/>
 
-Wassup<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am a 22 year old guy who likes to do stuff with tech and lifting weights.</p>
+Wassup<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am a 23 year old guy who likes to do stuff with tech and lifting weights.</p>
 
 <p>I am currently working as Linux System Engineer Trainee @ team.blue Denmark.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 <!-- delaydelaydelaydelaydelaydelaydelay -->
